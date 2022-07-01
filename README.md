@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Requisitos
 [] Deve ser possível criar umma conta
 [] Deve ser possível buscar o extrato bancário do cliente
@@ -15,3 +16,6 @@ Regras de negócio
 [] Não deve ser possível fazer saque em uma conta não existente
 [] Não deve ser possível excluir uma conta não existente
 [] Não deve ser possível fazer saque quando o saldo for insuficiente
+=======
+# api-financeira
+>>>>>>> 75b3c393cc7029f37eb5b3344447d37d123d10e8
